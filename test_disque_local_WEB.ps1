@@ -1,3 +1,5 @@
+# Author : Xunilone
+
 # Demander le type d'affichage
 $displayType = Read-Host "Choisissez le type d'affichage (standard/web)"
 

@@ -1,3 +1,5 @@
+# Author : Xunilone
+
 # URL du flux RSS des vulnérabilités
 $feedUrl = "http://atlasflux.suptribune.org/Outil_RSS_lecture.php?code_id=10583&charge=_us_&urllist=fra_informatique_securite"
 

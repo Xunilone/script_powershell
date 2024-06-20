@@ -1,3 +1,5 @@
+# Author : Xunilone
+
 $retryCount = 0 # Initialiser le compteur de tentatives à 0
 $wifiName = "SDIS73.local" # Nom du réseau Wi-Fi auquel se connecter
 
